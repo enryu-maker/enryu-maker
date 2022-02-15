@@ -17,7 +17,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" height="300" style="border-radius:10px" />
   
-- 💼 any freelance work? do reach, [email](mailto:akifkhan60067@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:akifkhan60067@gmail.com):)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -33,7 +33,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=gotham" alt="enryu_maker" width="300" height="250" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=gotham" alt="enryu_maker" width="300" height="350" />
 
 
 
