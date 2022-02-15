@@ -15,7 +15,7 @@ hi, i'm [Akif Khan](https://nerdtech.in/#about), a passionate self-taught AI-ML 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://tenor.com/view/coding-gif-18657810" width="400" height="300" />
+  <img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" height="300" />
   
 - 💼 any freelance work? do reach, [email](mailto:akifkhan60067@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
