@@ -15,7 +15,7 @@ hi, i'm [Akif Khan](https://nerdtech.in/#about), a passionate self-taught AI-ML 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" height="300" style="border-radius:10px" />
+  
   
 - 💼 any freelance work? do reach, [email](mailto:akifkhan60067@gmail.com):)
 - 💬 ask me about anything, i am happy to help;
@@ -29,13 +29,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br>
 
+<img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" height="300" style="border-radius:10px" />
 
 
-
-<p align="left"> 
-  <p>📈 my github stats</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=dracula" alt="enryu_maker"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryu-maker&theme=dracula&hide_langs_below=1"/></p>
+<p align="center"> 
+  <p align="center">📈 my github stats</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=dracula" align="left" alt="enryu_maker"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryu-maker&theme=dracula&hide_langs_below=1" align="right"/></p>
 
 
 
