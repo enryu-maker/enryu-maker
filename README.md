@@ -31,10 +31,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=gotham" alt="enryu_maker"/>
-
+<p align="left"> 
+  <p>📈 my github stats</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=dracula" alt="enryu_maker"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryu-maker&theme=dracula&hide_langs_below=1"/></p>
 
 
 
