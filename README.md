@@ -32,11 +32,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img align="center" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
 
-<p align="center"> 
-  <p align="center">📈 my github stats</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=dracula" align="left" alt="enryu_maker"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryu-maker&theme=dracula&hide_langs_below=1" align="right"/></p><br>
 
+<!--   <p align="right">📈 my github stats</p> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=dracula" align="left" alt="enryu_maker"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryu-maker&theme=dracula&hide_langs_below=1" align="right"/>
+<p></p>
 <img align="center" alt="GIF" src="https://64.media.tumblr.com/33cec5fffbef6cf57aed4e538a85407c/tumblr_onxl2newUq1w05w8zo1_500.gifv" /> 
 
 
