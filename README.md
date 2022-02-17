@@ -28,16 +28,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br>
-<p align="center"> 
-<img align="left" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="400" style="border-radius:10px" />
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/33cec5fffbef6cf57aed4e538a85407c/tumblr_onxl2newUq1w05w8zo1_500.gifv" width="500" height="400" style="border-radius:10px" />
-</p>
+
+<img align="center" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+
 
 <p align="center"> 
   <p align="center">📈 my github stats</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=dracula" align="left" alt="enryu_maker"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryu-maker&theme=dracula&hide_langs_below=1" align="right"/></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=dracula" align="left" alt="enryu_maker"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryu-maker&theme=dracula&hide_langs_below=1" align="right"/></p><br>
 
+<img align="center" alt="GIF" src="https://64.media.tumblr.com/33cec5fffbef6cf57aed4e538a85407c/tumblr_onxl2newUq1w05w8zo1_500.gifv" /> 
 
 
 
