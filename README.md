@@ -1,16 +1,16 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/oreo_akif/">
+<a href="https://www.instagram.com/_4akif_/">
   <img align="left" alt="Akif's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/akif-khan-280b711ba/">
-  <img align="left" alt="AKif's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="AKif's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ernyu_maker.enryu_maker)
 
 <br />
 
-hi, i'm [Akif Khan](https://nerdtech.in/#about), a passionate self-taught AI-ML || React-Native and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Akif Khan](https://nerdtech.in/), a passionate self-taught AI-ML || React-Native and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
