@@ -39,7 +39,7 @@ Currently working with **React Native**, diving deep into **TensorFlow**, and co
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enryu-maker&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryu-maker&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enryu-maker&layout=compact&theme=radical" width="40%" />
 </p>
 
 ---
