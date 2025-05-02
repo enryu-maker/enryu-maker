@@ -3,7 +3,7 @@
 [![Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/_4akif_/)
 [![LinkedIn](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png)](https://www.linkedin.com/in/akif-khan-280b711ba/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=enryu_maker.enryu_maker)
+![](https://visitor-badge.glitch.me/badge?page_id=enryu-maker.enryu-maker)
 
 ---
 
